@@ -1,0 +1,51 @@
+Company Name,Job Description
+RxMen,"Senior QA Engineer
+
+About Us: We are a profitable health-tech brand focusing on men's sexual wellness, scaling our revenue target from 5 cr to 40 cr this year. We have cracked Product-Market Fit and are now rebuilding our core engine to handle an 8x traffic multiplier. Because of our niche, user data is highly sensitive.
+
+Expected Compensation Range: ₹9,00,000 – ₹18,00,000 per annum
+
+The Role: With 5-6 developers shipping code, manual QA is a massive bottleneck. We need a strong QA presence to prevent release dates from slipping or bugs reaching production as feature velocity increases.
+
+Experience Range: 3 to 5 years in software testing, with a strong track record of transitioning manual workflows into automated suites.
+
+Key Responsibilities:
+- Build the Automation Suite: Lead the transition from manual, spreadsheet-tracked testing to automated End-to-End (E2E) testing using Cypress or Playwright. You will write the scripts that allow developers to ship code with confidence.
+- API Validation: Work closely with the backend team to write automated tests for new event-driven queues and ERP integrations, ensuring patient data is always flowing correctly.
+- CI/CD Gatekeeping: Collaborate with the DevOps engineer to integrate automated test suites directly into CI/CD deployment pipelines, serving as the final guardrail before code hits production.
+- Process Modernization: Take ownership of the bug lifecycle, transitioning the team from chaotic chat messages, email threads and Google Sheets into a structured, prioritized workflow using established quality test workflow tools.
+- Release Management: Act as the final quality gatekeeper for high-velocity feature releases, ensuring new features do not break core site functionality or compromise sensitive user data.
+- Balance Speed & Quality: Thrive in a startup environment, balancing thorough regression testing with fast-paced shipping requirements.
+
+Key Qualifications & Skills:
+- Automation Frameworks: Hands-on experience writing E2E testing scripts using Cypress, Playwright, or Selenium.
+- API Testing: Proficiency validating backend responses and data payloads using Postman or REST Assured.
+- Pipeline Integration: Familiarity hooking automated test suites into a CI/CD pipeline to run automatically on every pull request.
+- Defect Management: Strong organizational skills for logging, tracking, and prioritizing bugs in bug management tools.
+- Startup Agility: Ability to balance thorough regression testing with high-velocity release cycles of a startup.
+
+(Location: Delhi, India · On-site · Full-time · Posted 1 hour ago · 79 applicants)"
+NatWest Group,"Quality Automation Specialist, AVP
+
+Join us as a Quality Automation Specialist. In this key role, you'll be undertaking and enabling automated testing activities in all delivery models. We'll look to you to support teams to develop quality solutions and enable continuous integration and assurance of defect-free deployment of customer value. You'll be working closely with feature teams and a variety of stakeholders, giving you great exposure to professional development opportunities. This role is offered at associate vice president level.
+
+What you'll do:
+Joining in a highly collaborative role, you'll be contributing to the transformation of testing using quality processes, tools, and methodologies, significantly improving control, accuracy and integrity. You'll be making sure repeatable, constant and consistent quality is built into all phases of the idea-to-value lifecycle at reduced cost or reduced time to market. It's a chance to work with colleagues at multiple levels, and with cross-domain, domain, platform and feature teams, to build in quality as an integral part of all activities.
+
+Additionally, you'll be:
+- Supporting the design of automation test strategies, aligned to business or programme goals.
+- Evolving more predictive and intelligent testing approaches, based on automation and innovative testing products and solutions.
+- Collaborating with stakeholders and feature teams, making sure automated testing is performed and monitored as an essential part of planning and product delivery.
+- Designing and creating a low-maintenance suite of stable, re-usable automated tests, usable both within the product/domain and across domains and systems end-to-end.
+- Applying testing and delivery standards by understanding the product development lifecycle along with mandatory, regulatory and compliance requirements.
+
+The skills you'll need:
+At least eight years of experience in automation testing, particularly from an Agile development or CI/CD environment. An innovative thinker who can identify opportunities and design solutions, coupled with the ability to develop complex automation code. Good understanding of Agile methodologies with experience working in an Agile team, able to relate everyday work to the strategic vision of the feature team with a strong focus on business outcomes.
+
+Also looking for:
+- Experience in end-to-end mobile application testing on both iOS and Android platforms, ensuring robust performance and usability.
+- Knowledge of cloud-based device farms and testing platforms such as BrowserStack, LambdaTest, and Sauce Labs for scalable and cross-device testing.
+- Knowledge of AI-driven testing methodologies to enhance test coverage and accuracy for mobile services.
+- Expertise in mobile automation using Appium, enabling efficient regression testing and accelerated release cycles.
+
+(Location: Gurugram, Haryana, India · On-site · Full-time · Posted 16 hours ago · 35 applicants)"
